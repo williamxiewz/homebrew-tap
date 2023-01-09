@@ -7,7 +7,8 @@ class Xcodesnippet < Formula
   url "https://github.com/williamxiewz/xcodesnippet/releases/download/0.0.1/xcodesnippet_0.0.1.tar.gz"
   sha256 "b83abaa27d6c8387e57d6310aa71a3fe600fde4c4dcb6f613b241c03ff8717e1"
   license "MIT"
-
+  version "0.0.1"
+  
   # depends_on "cmake" => :build
 
   def install
