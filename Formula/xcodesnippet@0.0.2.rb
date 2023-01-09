@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Xcodesnippet < Formula
+class XcodesnippetAT002 < Formula
   desc "xcodesnippet Tool"
   homepage ""
   url "https://github.com/williamxiewz/xcodesnippet/releases/download/0.0.2/xcodesnippet_0.0.2.tar.gz"
