@@ -5,7 +5,7 @@ class Xcodesnippet < Formula
   desc "xcodesnippet Tool"
   homepage ""
   url "https://github.com/williamxiewz/xcodesnippet/releases/download/0.0.2/xcodesnippet_0.0.2.tar.gz"
-  sha256 "b83abaa27d6c8387e57d6310aa71a3fe600fde4c4dcb6f613b241c03ff8717e1"
+  sha256 "2d52534c311130125d41d454ff97ceae3bcfe5d10ed8b18f0a3694dc77506267"
   license "MIT"
   version "0.0.2"
   
